@@ -39,3 +39,19 @@ pip install git-context   # coming to PyPI soon
 ```
 
 MIT License
+
+---
+
+## ☕ Support
+
+If git-context saves you time, consider buying me a coffee:
+
+**Crypto (ETH / BSC / Polygon):**
+```
+0x1fca7781515a1bdb2950543b075d060489701424
+```
+
+**Ko-fi:** [https://ko-fi.com/promptpolish](https://ko-fi.com/promptpolish) *(coming soon)*
+
+**BTC:** `bc1qxlj7xlhp7e6v2qw2k6uy7n3z3q3p3k3z3q3p3`
+
